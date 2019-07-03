@@ -1,0 +1,13 @@
+﻿  Album.cpp
+C:\Users\josep\source\repos\MusicDatabaseCousework\MusicDatabaseCousework\Album.cpp(26): warning C4305: 'argument': truncation from 'int' to '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\josep\source\repos\MusicDatabaseCousework\MusicDatabaseCousework\Album.cpp(26): warning C4309: 'argument': truncation of constant value
+C:\Users\josep\source\repos\MusicDatabaseCousework\MusicDatabaseCousework\Album.cpp(23): warning C4101: 'line': unreferenced local variable
+  Collection.cpp
+C:\Users\josep\source\repos\MusicDatabaseCousework\MusicDatabaseCousework\Collection.cpp(15): warning C4101: 'line': unreferenced local variable
+  Duration.cpp
+  Generating Code...
+  MusicDatabaseCousework.vcxproj -> C:\Users\josep\source\repos\MusicDatabaseCousework\Debug\MusicDatabaseCousework.exe
